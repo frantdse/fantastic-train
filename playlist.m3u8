@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GEN" tvg-name="GEN TV" tvg-logo="https://www.gen.com.py/favicon.ico", GEN TV (En Vivo)
+https://rds3tf.desdeparaguay.net/gentv/gentv_int_alta/playlist.m3u8?k=e0552af9bd66857aca25c1116b368a22a9fb33fe81884f992c3b2d569524e7fa&exp=1788047012
